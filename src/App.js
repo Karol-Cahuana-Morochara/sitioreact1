@@ -21,7 +21,6 @@ function App() {
 
 		<section className="row"> 
 			<article className="col-md-6 bg-warning"> 
-				Articulo 1<br></br>
 				<Carrusel />
 			</article>
 			
