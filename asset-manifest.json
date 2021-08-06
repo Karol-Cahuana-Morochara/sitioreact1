@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/sitioreact1/static/css/main.5739ad41.chunk.css",
-    "main.js": "/sitioreact1/static/js/main.f9e0e14d.chunk.js",
-    "main.js.map": "/sitioreact1/static/js/main.f9e0e14d.chunk.js.map",
-    "runtime-main.js": "/sitioreact1/static/js/runtime-main.caafc7f7.js",
-    "runtime-main.js.map": "/sitioreact1/static/js/runtime-main.caafc7f7.js.map",
+    "main.css": "/sitioreact1/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/sitioreact1/static/js/main.d73bb7f6.chunk.js",
+    "main.js.map": "/sitioreact1/static/js/main.d73bb7f6.chunk.js.map",
+    "runtime-main.js": "/sitioreact1/static/js/runtime-main.aa2ae80b.js",
+    "runtime-main.js.map": "/sitioreact1/static/js/runtime-main.aa2ae80b.js.map",
     "static/css/2.4be38407.chunk.css": "/sitioreact1/static/css/2.4be38407.chunk.css",
-    "static/js/2.932630a5.chunk.js": "/sitioreact1/static/js/2.932630a5.chunk.js",
-    "static/js/2.932630a5.chunk.js.map": "/sitioreact1/static/js/2.932630a5.chunk.js.map",
-    "static/js/3.43488749.chunk.js": "/sitioreact1/static/js/3.43488749.chunk.js",
-    "static/js/3.43488749.chunk.js.map": "/sitioreact1/static/js/3.43488749.chunk.js.map",
+    "static/js/2.f77b41f9.chunk.js": "/sitioreact1/static/js/2.f77b41f9.chunk.js",
+    "static/js/2.f77b41f9.chunk.js.map": "/sitioreact1/static/js/2.f77b41f9.chunk.js.map",
+    "static/js/3.59849033.chunk.js": "/sitioreact1/static/js/3.59849033.chunk.js",
+    "static/js/3.59849033.chunk.js.map": "/sitioreact1/static/js/3.59849033.chunk.js.map",
     "index.html": "/sitioreact1/index.html",
     "static/css/2.4be38407.chunk.css.map": "/sitioreact1/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.5739ad41.chunk.css.map": "/sitioreact1/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.932630a5.chunk.js.LICENSE.txt": "/sitioreact1/static/js/2.932630a5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sitioreact1/static/media/logo.6ce24c58.svg"
+    "static/css/main.2ae47eeb.chunk.css.map": "/sitioreact1/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.f77b41f9.chunk.js.LICENSE.txt": "/sitioreact1/static/js/2.f77b41f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.caafc7f7.js",
+    "static/js/runtime-main.aa2ae80b.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.932630a5.chunk.js",
-    "static/css/main.5739ad41.chunk.css",
-    "static/js/main.f9e0e14d.chunk.js"
+    "static/js/2.f77b41f9.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.d73bb7f6.chunk.js"
   ]
 }
